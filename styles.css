@@ -304,7 +304,7 @@ table tbody tr td:nth-of-type(1){
         width:80%;
     }
     .showcase{
-        box-shadow: 20px 20px 50px 30px #000 inset,-20px -20px 50px 30px #000 inset;
+        box-shadow: 10px 10px 30px 30px #000 inset,-10px -10px 30px 30px #000 inset;
     }
     .tab{
         cursor:pointer;
